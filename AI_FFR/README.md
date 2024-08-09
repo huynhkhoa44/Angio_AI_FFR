@@ -1,4 +1,4 @@
-# USAGE
+# Instructions for creating an Excel file as input
 
 ## Step 1:
 Open the FFR_Data file we attached in the folder
