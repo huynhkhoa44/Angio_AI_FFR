@@ -1,4 +1,5 @@
 # Instructions for creating an Excel file as input
+For example, we want to create an input excel file for patient F301-RCA2.
 
 ## Step 1:
 Open the FFR_Data file we attached in the folder
